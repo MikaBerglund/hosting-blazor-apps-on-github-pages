@@ -1,7 +1,7 @@
 Hosting Blazor Apps on GitHub Pages
 ===================================
 
-This repository contains a sample Blazor WebAssembly application that is hosted on GitHub Pages. Read more about hosting Blazor applications on GitHub Pages on this blog article https://mikaberglund.com/2019/12/29/hosting-blazor-applications-on-github-pages/.
+This repository contains a sample Blazor WebAssembly application that is hosted on GitHub Pages. Read more about hosting Blazor applications on GitHub Pages on this blog article https://mikaberglund.com/hosting-blazor-applications-on-github-pages/.
 
 
 Live Site
